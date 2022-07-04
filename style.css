@@ -19,7 +19,7 @@ body{
   -------------------- */     
   }
   #home{
-    background-image: url("./images/coffee2.jpg");
+    background-image: url("https://github.com/getinosent/Cafe-portfolio/blob/main/images/coffee2.jpg?raw=true");
     min-height: 100vh;
   }
   #home .page-title{
